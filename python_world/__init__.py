@@ -1,2 +1,0 @@
-name = "python_world"
-
