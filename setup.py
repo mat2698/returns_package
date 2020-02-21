@@ -11,7 +11,6 @@ setuptools.setup(
     description="A function that returns 'world'",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mat2698/returns_package",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
